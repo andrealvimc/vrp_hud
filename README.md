@@ -7,4 +7,4 @@ Instalação:
 Coloque o arquvio vrp_hud na dentro da pasta resources e adicione no server.cfg start vrp_hud e seja feliz
 
 
-Discord: Alvim#4455 ou https://discord.gg/rQecUXS
+Discord: Alvim#7777 ou https://discord.gg/K5GVz7E
